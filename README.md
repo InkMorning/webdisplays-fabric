@@ -1,3 +1,6 @@
+# WebDisplays-fabric
+Ported from the built-in web browser WebDisplays in , made by Qwen3.8-flash
+
 # WebDisplays
 WebDisplays is a mod for creating and interacting with web browsers in Minecraft. You can create screens in your world and browse the internet.
 
